@@ -38,3 +38,6 @@ Game End Conditions:
 
 You win if you reach the endpoint.
 You lose if your health reaches zero.
+
+https://github.com/user-attachments/assets/1e5824ab-0d57-4f11-bb3f-65f4fdcae211
+
